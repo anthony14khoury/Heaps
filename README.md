@@ -1,4 +1,4 @@
-READ ME!!
+READ ME
 
 Data Structures Mini Project #1!
 
